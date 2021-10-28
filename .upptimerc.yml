@@ -14,7 +14,7 @@ status-website:
   # baseUrl: /your-repo-name
   favicon: https://user-images.githubusercontent.com/13193410/139195442-5e35e0a3-2f7b-4195-be59-9be9dcc7a92b.png
   logoUrl: https://user-images.githubusercontent.com/13193410/139193336-3ad248de-7276-4145-becd-2abd0d8f12a9.png
-  name: ""
+  name: Service Status
   introTitle: "서비스 상태 페이지"
   introMessage: "아임포트 API의 점검 상태와 서비스 상태를 확인할 수 있는 페이지입니다."
   navbar:
