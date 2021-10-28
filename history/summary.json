@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/vital-signs.dev.iamport.co",
     "slug": "api",
     "status": "down",
-    "uptime": "36.68%",
-    "uptimeDay": "36.68%",
-    "uptimeWeek": "36.68%",
-    "uptimeMonth": "36.68%",
-    "uptimeYear": "36.68%",
-    "time": 887,
-    "timeDay": 887,
-    "timeWeek": 887,
-    "timeMonth": 887,
-    "timeYear": 887,
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 846,
+    "timeDay": 846,
+    "timeWeek": 846,
+    "timeMonth": 846,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2021-10-28": 0
+      "2021-10-28": 15
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/vital-signs.dev.iamport.co",
     "slug": "pay",
     "status": "down",
-    "uptime": "17.08%",
-    "uptimeDay": "17.08%",
-    "uptimeWeek": "17.08%",
-    "uptimeMonth": "17.08%",
-    "uptimeYear": "17.08%",
-    "time": 179,
-    "timeDay": 179,
-    "timeWeek": 179,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 171,
+    "timeDay": 171,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2021-10-28": 0
+      "2021-10-28": 15
     }
   }
 ]
