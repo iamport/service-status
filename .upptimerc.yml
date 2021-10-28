@@ -12,6 +12,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: health.iamport.kr
   # baseUrl: /your-repo-name
+  favicon: https://user-images.githubusercontent.com/13193410/139195442-5e35e0a3-2f7b-4195-be59-9be9dcc7a92b.png
   logoUrl: https://user-images.githubusercontent.com/13193410/139193336-3ad248de-7276-4145-becd-2abd0d8f12a9.png
   # name:
   introTitle: "서비스 상태 페이지"
