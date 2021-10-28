@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/vital-signs.dev.iamport.co",
     "slug": "api",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 846,
     "timeDay": 846,
     "timeWeek": 846,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2021-10-28": 15
+      "2021-10-28": 17
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/vital-signs.dev.iamport.co",
     "slug": "pay",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 171,
-    "timeDay": 171,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 175,
+    "timeDay": 175,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2021-10-28": 15
+      "2021-10-28": 17
     }
   }
 ]
