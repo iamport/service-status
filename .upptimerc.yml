@@ -13,8 +13,8 @@ status-website:
   cname: health.iamport.kr
   # baseUrl: /your-repo-name
   logoUrl: https://user-images.githubusercontent.com/13193410/139193336-3ad248de-7276-4145-becd-2abd0d8f12a9.png
-  name: I'mport
-  introTitle: "아임포트(I'mport) 서비스 상태 페이지"
+  # name:
+  introTitle: "서비스 상태 페이지"
   introMessage: "아임포트 API의 점검 상태와 서비스 상태를 확인할 수 있는 페이지입니다."
   navbar:
     - title: Status
@@ -22,5 +22,7 @@ status-website:
     - title: Home
       href: https://www.iamport.kr
 
+i18n:
+  footer: ""
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
