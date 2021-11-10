@@ -3,11 +3,11 @@ repo: service-status # The name of this repository
 
 sites:
   # TODO: Change each api 'url's and 'expectedStatusCodes' in these below.
-  - name: API
+  - name: API functionality
     url: https://vital-signs.dev.iamport.co
     expectedStatusCodes:
       - 503
-  - name: PAY
+  - name: Payment functionality
     url: https://vital-signs.dev.iamport.co
     expectedStatusCodes:
       - 503
@@ -29,5 +29,9 @@ status-website:
 
 i18n:
   footer: ""
+  overallUptime: ""
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+#
+workflowSchedule:
+  uptime: "*/1 * * * *"
