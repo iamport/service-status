@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/vital-signs.prod.iamport.co",
     "slug": "api-functionality",
     "status": "up",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 909,
-    "timeDay": 909,
-    "timeWeek": 909,
-    "timeMonth": 909,
-    "timeYear": 909,
-    "dailyMinutesDown": {
-      "2021-11-10": 247
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 935,
+    "timeDay": 935,
+    "timeWeek": 935,
+    "timeMonth": 935,
+    "timeYear": 935,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Payment functionality",
@@ -25,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/vital-signs.prod.iamport.co",
     "slug": "payment-functionality",
     "status": "up",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 184,
-    "timeDay": 184,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
-    "dailyMinutesDown": {
-      "2021-11-10": 247
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
+    "dailyMinutesDown": {}
   }
 ]
