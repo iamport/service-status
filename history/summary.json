@@ -1,42 +1,42 @@
 [
   {
     "name": "API functionality",
-    "url": "https://vital-signs.dev.iamport.co",
-    "icon": "https://favicons.githubusercontent.com/vital-signs.dev.iamport.co",
+    "url": "https://vital-signs.prod.iamport.co/public/health/api",
+    "icon": "https://favicons.githubusercontent.com/vital-signs.prod.iamport.co",
     "slug": "api-functionality",
-    "status": "down",
-    "uptime": "0.42%",
-    "uptimeDay": "0.42%",
-    "uptimeWeek": "0.42%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "0.42%",
-    "time": 877,
-    "timeDay": 877,
-    "timeWeek": 877,
-    "timeMonth": 877,
-    "timeYear": 877,
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 909,
+    "timeDay": 909,
+    "timeWeek": 909,
+    "timeMonth": 909,
+    "timeYear": 909,
     "dailyMinutesDown": {
-      "2021-11-10": 8
+      "2021-11-10": 247
     }
   },
   {
     "name": "Payment functionality",
-    "url": "https://vital-signs.dev.iamport.co",
-    "icon": "https://favicons.githubusercontent.com/vital-signs.dev.iamport.co",
+    "url": "https://vital-signs.prod.iamport.co/public/health/pay",
+    "icon": "https://favicons.githubusercontent.com/vital-signs.prod.iamport.co",
     "slug": "payment-functionality",
-    "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
-    "time": 180,
-    "timeDay": 180,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "status": "up",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {
-      "2021-11-10": 8
+      "2021-11-10": 247
     }
   }
 ]
