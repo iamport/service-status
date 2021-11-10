@@ -2,15 +2,10 @@ owner: iamport # Your GitHub organization or username, where this repository liv
 repo: service-status # The name of this repository
 
 sites:
-  # TODO: Change each api 'url's and 'expectedStatusCodes' in these below.
   - name: API functionality
-    url: https://vital-signs.dev.iamport.co
-    expectedStatusCodes:
-      - 503
+    url: https://vital-signs.prod.iamport.co/public/health/api
   - name: Payment functionality
-    url: https://vital-signs.dev.iamport.co
-    expectedStatusCodes:
-      - 503
+    url: https://vital-signs.prod.iamport.co/public/health/pay
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
