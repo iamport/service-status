@@ -1,7 +1,7 @@
-url: https://vital-signs.dev.iamport.co
-status: down
-code: 404
-responseTime: 939
-lastUpdated: 2021-11-10T05:03:08.582Z
+url: https://vital-signs.prod.iamport.co/public/health/api
+status: up
+code: 200
+responseTime: 1003
+lastUpdated: 2021-11-10T09:01:42.283Z
 startTime: Wed Nov 10 2021 04:55:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
