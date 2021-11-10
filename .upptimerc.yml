@@ -30,6 +30,7 @@ status-website:
 i18n:
   footer: ""
   overallUptime: ""
+  overallUptimeTitle: ""
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 #
