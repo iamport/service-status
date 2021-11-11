@@ -4,8 +4,10 @@ repo: service-status # The name of this repository
 sites:
   - name: API functionality
     url: https://vital-signs.prod.iamport.co/public/health/api
+    showAverageResponseTime: false
   - name: Payment functionality
     url: https://vital-signs.prod.iamport.co/public/health/pay
+    showAverageResponseTime: false
 status-website:
   cname: health.iamport.kr
   favicon: https://user-images.githubusercontent.com/13193410/139195442-5e35e0a3-2f7b-4195-be59-9be9dcc7a92b.png
