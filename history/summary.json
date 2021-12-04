@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/vital-signs.prod.iamport.co",
     "slug": "api-functionality",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 966,
-    "timeDay": 864,
-    "timeWeek": 917,
-    "timeMonth": 966,
-    "timeYear": 966,
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 967,
+    "timeDay": 1003,
+    "timeWeek": 932,
+    "timeMonth": 967,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2021-11-19": 56
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 163,
-    "timeWeek": 183,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "time": 189,
+    "timeDay": 202,
+    "timeWeek": 187,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   }
 ]
