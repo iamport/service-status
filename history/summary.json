@@ -4,9 +4,9 @@
     "url": "https://vital-signs.prod.iamport.co/public/health/api",
     "icon": "https://favicons.githubusercontent.com/vital-signs.prod.iamport.co",
     "slug": "api-functionality",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 947,
     "timeYear": 967,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2021-11-19": 56
     }
   },
