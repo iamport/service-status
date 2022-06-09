@@ -1,7 +1,7 @@
 url: https://vital-signs.prod.iamport.co/public/health/pay
-status: down
-code: 500
-responseTime: 160
-lastUpdated: 2022-06-09T03:16:50.540Z
+status: up
+code: 200
+responseTime: 137
+lastUpdated: 2022-06-09T03:41:28.203Z
 startTime: Wed Nov 10 2021 04:55:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
