@@ -4,10 +4,10 @@
     "url": "https://vital-signs.prod.iamport.co/public/health/api",
     "icon": "https://icons.duckduckgo.com/ip3/vital-signs.prod.iamport.co.ico",
     "slug": "api-functionality",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 899,
@@ -16,6 +16,7 @@
     "timeMonth": 808,
     "timeYear": 883,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-06-09": 25,
       "2022-06-02": 210,
       "2022-05-04": 6,
@@ -32,9 +33,9 @@
     "url": "https://vital-signs.prod.iamport.co/public/health/pay",
     "icon": "https://icons.duckduckgo.com/ip3/vital-signs.prod.iamport.co.ico",
     "slug": "payment-functionality",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -44,6 +45,7 @@
     "timeMonth": 163,
     "timeYear": 174,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-06-09": 25,
       "2022-06-02": 210
     }
