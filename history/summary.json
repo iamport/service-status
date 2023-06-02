@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vital-signs.prod.iamport.co.ico",
     "slug": "api-functionality",
     "status": "down",
-    "uptime": "94.79%",
+    "uptime": "94.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.67%",
-    "uptimeYear": "91.92%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "91.65%",
     "time": 869,
-    "timeDay": 897,
-    "timeWeek": 896,
-    "timeMonth": 882,
-    "timeYear": 847,
+    "timeDay": 673,
+    "timeWeek": 849,
+    "timeMonth": 874,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2023-06-01": 9,
+      "2023-06-02": 7,
+      "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -48,8 +49,7 @@
       "2023-05-03": 1440,
       "2023-05-02": 427,
       "2023-01-25": 26,
-      "2022-06-09": 25,
-      "2022-06-02": 210
+      "2022-06-09": 25
     }
   },
   {
@@ -58,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vital-signs.prod.iamport.co.ico",
     "slug": "payment-functionality",
     "status": "down",
-    "uptime": "94.81%",
+    "uptime": "94.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.67%",
-    "uptimeYear": "91.92%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "91.65%",
     "time": 174,
-    "timeDay": 211,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 170,
+    "timeDay": 159,
+    "timeWeek": 196,
+    "timeMonth": 197,
+    "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-06-01": 9,
+      "2023-06-02": 7,
+      "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -101,8 +102,7 @@
       "2023-05-03": 1440,
       "2023-05-02": 427,
       "2023-01-25": 25,
-      "2022-06-09": 25,
-      "2022-06-02": 210
+      "2022-06-09": 25
     }
   }
 ]
